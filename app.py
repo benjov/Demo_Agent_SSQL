@@ -9,7 +9,7 @@
 # 3. How to Build the App: SQL Database Agent App
 
 
-# streamlit run 010_sql_database_agent_app_V2/app.py
+# streamlit run app.py
 
 # Imports
 # pip install git+https://github.com/business-science/ai-data-science-team.git --upgrade
